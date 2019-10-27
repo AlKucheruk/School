@@ -1,3 +1,0 @@
-Hello Git 123
-I's new line
-hi It is second edition
